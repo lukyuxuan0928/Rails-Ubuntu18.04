@@ -1,4 +1,4 @@
-# Ruby on Rails
+# Ubuntu 18.04 of Ruby on Rails
 
 Rails is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
 
@@ -7,8 +7,6 @@ Rails is a web-application framework that includes everything needed to create d
 Here I'm installing the ruby and rails on Ubuntu 18.04.
 
 ## Installation
-
-Before creating a new project on rails, you need to install:
 
 First, update your package manager:
 
